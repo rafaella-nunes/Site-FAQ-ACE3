@@ -1,0 +1,27 @@
+.faq1 {
+  justify-content: space-between;
+  align-items: center;
+}
+.faq1 article {
+  width: 400px;
+}
+.faq1 article h1 {
+  font-size: 60px;
+  line-height: 90%;
+  font-weight: 400;
+  color: #9b2226;
+}
+.faq1 article h2 {
+  font-size: 25px;
+  font-weight: 400;
+  color: #ca6702;
+  text-transform: initial;
+  line-height: 100%;
+}
+.faq1 article p {
+  color: black;
+  margin: 15px 0px 30px 0px;
+}
+.faq1 figcaption img {
+  width: 550px;
+}

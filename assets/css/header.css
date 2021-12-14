@@ -1,15 +1,10 @@
-header {
+header section {
   background-color: transparent;
-  margin: 15px auto;
-  width: 1024px;
-
-  display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
 #texto-header {
-  font-size: 23pt;
+  font-size: 20pt;
   font-family: "Gill Sans MT";
   font-weight: bold;
   text-align: center;
