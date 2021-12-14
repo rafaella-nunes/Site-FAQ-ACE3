@@ -1,0 +1,23 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  background-color: #4a4e58;
+  margin-left: 15px;
+  padding: 20px 0px;
+}
+#brasao-ft {
+  width: 30px;
+}
+#redes {
+  width: 30px;
+}
+footer a {
+  color: #fff;
+}
+footer.container {
+  align-items: baseline;
+}
+footer ul li {
+  margin: 20px 0px 0px 0px;
+  padding-left: 20px;
+}
