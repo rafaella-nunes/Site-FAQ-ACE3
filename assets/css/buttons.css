@@ -1,0 +1,9 @@
+.btn {
+  padding: 0px 2px;
+  border-radius: 50px;
+}
+
+.btn.btn-ufal {
+  background-color: #ae2012;
+  color: #ffffff;
+}

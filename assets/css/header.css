@@ -1,0 +1,34 @@
+header {
+  background-color: transparent;
+  margin: 15px auto;
+  width: 1024px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+#texto-header {
+  font-size: 23pt;
+  font-family: "Gill Sans MT";
+  font-weight: bold;
+  text-align: center;
+}
+header nav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+header nav ul li {
+  padding: 20px;
+}
+
+header nav ul li a {
+  padding: 0px 15px;
+  color: #9b2226;
+}
+a {
+  padding: 0px 15px;
+  color: #9b2226;
+}
