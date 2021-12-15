@@ -25,3 +25,21 @@
 .faq1 figcaption img {
   width: 550px;
 }
+.faq-1 article p {
+  color: #000000;
+  width: fit-content;
+  font-size: 15pt;
+}
+.faq-1 article h1 {
+  font-size: 60px;
+  line-height: 90%;
+  font-weight: 400;
+  color: #9b2226;
+}
+.faq-1 article h2 {
+  font-size: 25px;
+  font-weight: 400;
+  color: #ca6702;
+  text-transform: initial;
+  line-height: 100%;
+}
