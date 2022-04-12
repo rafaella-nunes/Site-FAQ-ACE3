@@ -1,5 +1,5 @@
 <h3>Site-FAQ-ACE3</h3>
-<h5>Site construido para a disciplina de ACE3.</h5>
+<h5>Site construido para a disciplina de ACE3, apenas front end e publicado no github pages.</h5>
 
 <ul>
 <li>O projeto consiste em criar um site para armazenar as perguntas feitas frequentementes a coordenação do curso.</li>
